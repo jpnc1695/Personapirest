@@ -15,7 +15,7 @@ Primeiros passos com Spring Boot no desenvolvimento de API's e praticar os conce
 - Utilizamos o [Lombok]  //para deixar o código mais limpo e menos verboso;
 - Uso do [Sdkman] // para instalação do Java e Maven
 -  Uso [Postman] // Para execução de testes no Banco de dados.
--  
+
 ### BANCO DE DADOS
 - MySql 8.0.
 - Banco H2.
